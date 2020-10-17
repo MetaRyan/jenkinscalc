@@ -1,3 +1,4 @@
+// Arbitrary comment
 import java.util.UUID;
 
 class Calculator {
